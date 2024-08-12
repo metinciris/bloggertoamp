@@ -1,4 +1,6 @@
 # bloggertoamp
+```markdown
+# AMP HTML Converter
 
 Bu Python aracı, Blogger'da oluşturulan resimli ve videolu içerikleri AMP uyumlu HTML formatına dönüştürmek için kullanılır. Arayüz, kullanıcıdan aldığı verilerle AMP uyumlu HTML kodu oluşturur.
 
@@ -29,3 +31,17 @@ Gerekli Python paketlerini yüklemek için:
 
 ```bash
 pip install beautifulsoup4 requests Pillow pyperclip
+```
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyin.
+```
+
+### 6. Projeyi GitHub Üzerinden Paylaşma
+Artık projeniz GitHub'da yayınlanmış durumda. Proje sayfasındaki "Clone or download" butonunu kullanarak başkaları da projeyi indirip kullanabilir.
+
+Eğer projeyi başkalarıyla paylaşmak isterseniz, GitHub sayfasının URL'sini paylaşabilirsiniz. Örneğin:
+`https://github.com/kullanıcı_adınız/amp-html-converter`
+
+Bu adımlarla projenizi GitHub'da başarılı bir şekilde paylaşabilirsiniz!
