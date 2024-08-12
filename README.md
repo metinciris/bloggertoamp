@@ -37,11 +37,3 @@ pip install beautifulsoup4 requests Pillow pyperclip
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyin.
 ```
-
-### 6. Projeyi GitHub Üzerinden Paylaşma
-Artık projeniz GitHub'da yayınlanmış durumda. Proje sayfasındaki "Clone or download" butonunu kullanarak başkaları da projeyi indirip kullanabilir.
-
-Eğer projeyi başkalarıyla paylaşmak isterseniz, GitHub sayfasının URL'sini paylaşabilirsiniz. Örneğin:
-`https://github.com/kullanıcı_adınız/amp-html-converter`
-
-Bu adımlarla projenizi GitHub'da başarılı bir şekilde paylaşabilirsiniz!
